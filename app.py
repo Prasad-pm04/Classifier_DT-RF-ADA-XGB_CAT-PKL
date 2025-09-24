@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.image("BE-logo.png")
+st.image("Web Developer Logo Design Vector Download.jpg")
 
 # -------------------------
 # Load Dataset and Model
