@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.image("")
+st.image("web programmer logo.jpg")
 
 # -------------------------
 # Load Dataset and Model
