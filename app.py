@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.image("Web Developer Logo Design Vector Download.jpg")
+st.image("")
 
 # -------------------------
 # Load Dataset and Model
